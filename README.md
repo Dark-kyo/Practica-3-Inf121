@@ -1,1 +1,6 @@
 # Practica-3-Inf121
+## YOSTI ALEXIS ALEJO CONDORI
+
+### CI: 12671293
+
+### RU:1837622
